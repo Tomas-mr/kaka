@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "蒙睿(Meng, Rui)"
+title                    : "Rui Meng(蒙睿)"
 title_separator          : "-"
 name                     : &name "Rui Meng"
 description              : &description "personal description"
