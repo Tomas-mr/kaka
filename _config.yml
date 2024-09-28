@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Rui Meng(蒙睿)"
 title_separator          : "-"
 name                     : &name "Rui Meng"
 description              : &description "personal description"
-url                      : https://Tomas-mr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tomas-mr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "UCAS"
   uri              : # URL
   email            : "mengrui22@mails.ucas.ac.cn" 
 
